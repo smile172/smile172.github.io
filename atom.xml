@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Flycat&#39;s Blog</title>
+  
+  <subtitle>Flycat&#39;s Blog</subtitle>
+  <link href="http://smile172.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://smile172.github.io/"/>
+  <updated>1985-10-26T08:15:00.000Z</updated>
+  <id>http://smile172.github.io/</id>
+  
+  <author>
+    <name>爱吃排骨的花猫</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://smile172.github.io/2022/12/31/hello-world/"/>
+    <id>http://smile172.github.io/2022/12/31/hello-world/</id>
+    <published>2022-12-31T05:15:50.188Z</published>
+    <updated>1985-10-26T08:15:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
